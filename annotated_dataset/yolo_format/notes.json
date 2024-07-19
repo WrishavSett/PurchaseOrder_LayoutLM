@@ -1,0 +1,21 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Customer Name"
+    },
+    {
+      "id": 1,
+      "name": "Order Date"
+    },
+    {
+      "id": 2,
+      "name": "Order ID"
+    }
+  ],
+  "info": {
+    "year": 2024,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
